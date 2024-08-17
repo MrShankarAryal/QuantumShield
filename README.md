@@ -133,7 +133,7 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 | **Developer** | Shankar Aryal |
 | **Email** | [shankararyal737@gmail.com](mailto:shankararyal737@gmail.com) |
 | **GitHub** | [@MrShankarAryal](https://github.com/MrShankarAryal) |
-| **Website** | [mrshankararyal.github.io](https://mrshankararyal.github.io/portfolio/) |
+| **Website** | [mrshankararyal.github.io](https://mrshankararyal.github.io) |
 
 </div>
 
