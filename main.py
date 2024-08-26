@@ -8,7 +8,7 @@ from network_monitor.honeypots import Honeypots
 def main():
     print("QuantumShield Security System Initialized")
 
-    # Example usage:
+   
     behavior = BehaviorAnalysis()
     quantum = QuantumDefense()
     threat = ThreatDetection("https://example.com/threat_feed")
